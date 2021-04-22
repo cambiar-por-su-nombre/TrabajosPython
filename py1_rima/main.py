@@ -8,4 +8,4 @@ print(len(lineas))
 
 print(lineas[0])
 
-print(lineas)
+#print(lineas)
